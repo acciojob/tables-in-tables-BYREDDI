@@ -4,6 +4,10 @@ table,th,td{
 	border:1px solid black;
 	width:100vw;
 }
+#col-1,#col-2,#nes-2,#nes-1,#nes-3,#nes-4
+{
+	color:rgb(0,0,0);
+}
 #table-1
 {
 	border:1px solid black;
