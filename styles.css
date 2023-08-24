@@ -1,2 +1,23 @@
 
 /* Your CSS Code here. */
+table,th,td{
+	border:1px solid black;
+	width:100vw;
+}
+#table-1
+{
+	border:1px solid black;
+}
+#htm
+{
+	background-color:black;
+	color:white;
+}
+#first-row
+{
+	height:250px;
+}
+#second-row
+{
+	height:100px;
+}
